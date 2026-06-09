@@ -717,7 +717,7 @@ ${
           <p className="mt-8 text-white/60 text-lg">
             abishikth.amcec@gmail.com
           </p>
-    "
+  
 
           <div className="px-10 py-5 rounded-full border border-white/10 bg-white/[0.03] text-xl">
             📞 +91 9980443485
